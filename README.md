@@ -1,6 +1,6 @@
 # fuzzyNumbers
 
-# compilation
+compilation
 ```
 make
 ```
