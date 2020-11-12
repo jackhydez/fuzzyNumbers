@@ -8,8 +8,6 @@ string strAs = "a";
 string strBs = "b";
 string strCs = "c";
 
-
-//test
 class FuzzyNumber {
 private:
     float x0 = .0;
